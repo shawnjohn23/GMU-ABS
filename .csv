@@ -1,0 +1,11 @@
+Category,Description,Percent of Revenue,Amount (USD)
+Forecasted Revenue,Total expected income for Fall 2025,,
+Food & Supplies,Ingredients, beverages, disposables,30%,=B1*0.30
+Labor,Wages and salaries for staff,30%,=B1*0.30
+Benefits,Healthcare, retirement, payroll taxes,8%,=B1*0.08
+Utilities,Electricity, water, gas,6%,=B1*0.06
+Admin/Overhead,Management, IT, office expenses,6%,=B1*0.06
+Marketing/Training,Promotions, staff development,1.5%,=B1*0.015
+Capital/Equipment,Equipment, furniture, renovations,3%,=B1*0.03
+Debt/Transfers,Debt service, university allocations,10%,=B1*0.10
+Reserve,Emergency fund, future projects,2.5%,=B1*0.025
